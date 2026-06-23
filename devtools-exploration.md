@@ -69,4 +69,4 @@ html
   - Select language.
   - submit the search.
 ### 3. screenshot of the Elements panel.
-![DevTools Element Panel](screenshots/devtools-elements.png)
+![DevTools Element Panel](Devtools-Elements.PNG)
